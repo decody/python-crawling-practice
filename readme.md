@@ -49,9 +49,8 @@
 ```
 ```shell
 > pip uninstall simplejson
-```
 > pip install --ignore-installed simplejson
-
+```
 아나콘다 사용로그나 캐시 삭제
 ```shell
 > conda clean --all
