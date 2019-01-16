@@ -1,4 +1,4 @@
-```
+
 # 1. 아나콘다 
 
 ### Anaconda Prompt
