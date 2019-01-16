@@ -4,7 +4,7 @@
 ### Anaconda Prompt
 
 아나콘다 버전 확인
-```sh
+```shell
 > conda --version
 ```
 아나콘다 업데이트
